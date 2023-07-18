@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-usc-clientonly-example",
+  "name": "gatsby-use-shopping-cart-clientonly",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby, Use-Shopping-Cart, and Stripe. Client side product validation.",
   "version": "0.0.2",
